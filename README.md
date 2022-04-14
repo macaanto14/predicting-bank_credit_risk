@@ -1,0 +1,2 @@
+# predicting-bank_credit_risk
+PREDICTING BANK CREDIT RISK USING DATA MINING TECHNIQUE. 
